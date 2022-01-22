@@ -5,4 +5,4 @@ My website links:
 
 https://zaydu98.github.io/
 
-https://terpconnect.umd.edu/~zaydu98/
+https://terpconnect.umd.edu/~zaydu98/zaydu98.github.io/
