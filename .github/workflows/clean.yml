@@ -20,3 +20,5 @@ jobs:
           script: |
             unalias rm
             rm -rf zaydu98.github.io
+            cd ../pub
+            rm -rf *
