@@ -1,3 +1,7 @@
 # cmsc388T-web-template
 
-Website Template for Project 3
+My website links:
+
+https://zaydu98.github.io/
+
+https://terpconnect.umd.edu/~zaydu98/
