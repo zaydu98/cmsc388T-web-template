@@ -22,4 +22,4 @@ jobs:
             cd zaydu98.github.io
             git pull
             cd ..
-            \cp zaydu98.github.io ../../pub/ -f -r
+            \cp zaydu98.github.io ../pub/ -f -r
