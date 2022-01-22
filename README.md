@@ -3,7 +3,7 @@
 
 My website links:
 
-Changes: added another <p> tag about my upcoming internship and added instagram link
+Changes: added another /<p/> tag about my upcoming internship and added instagram link
 
 https://zaydu98.github.io/
 
