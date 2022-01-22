@@ -1,5 +1,4 @@
 # Zayd's Project 3:
-# cmsc388T-web-template
 
 Changes: added another &lt;p> tag about my upcoming internship and added instagram link with photo
 
